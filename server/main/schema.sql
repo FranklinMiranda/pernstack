@@ -3,3 +3,9 @@ CREATE TABLE users (
     username VARCHAR(255) UNIQUE,
     email VARCHAR(255),
 )
+
+
+
+AWS RDS instance password
+postgres
+sergtsop
